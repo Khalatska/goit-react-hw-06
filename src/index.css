@@ -3,3 +3,18 @@
   line-height: 1.5;
   font-weight: 400;
 }
+
+body {
+  margin: 0;
+  background-color: rgb(204, 214, 220);
+}
+
+li {
+  list-style: none;
+}
+
+.titleMain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
